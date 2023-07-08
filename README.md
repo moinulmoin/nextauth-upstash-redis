@@ -1,11 +1,3 @@
----
-title: The name of the example
-products: ["redis"]
-stack: ["Next.js", "NextAuth.js", "Vercel"]
-use_cases: ["Authentication"]
-author: "moinulmoin"
----
-
 This is an example of how to do [Next.js](https://nextjs.org/) Authentication with [NextAuth.js](https://next-auth.js.org/) and [Serverless Redis by Upstash](https://upstash.com/).
 
 ## Getting Started
